@@ -17,14 +17,22 @@ Week 5: Eigenvalues and Eigenvectors: Application to Data Problems
 
 # Course 2: Multivariate Calculus
 Week 1: What is calculus?
+
 Week 2: Multivariate calculus
+
 Week 3: Multivariate chain rule and its applications
+
 Week 4: Taylor series and linearisation
+
 Week 5: Intro to optimisation
+
 Week 6: Regression
 
 # Course 3: PCA (Principal Component Analysis)
 Week 1: Statistics of Datasets
+
 Week 2: Inner Products
+
 Week 3: Orthogonal Projections
+
 Week 4: Principal Component Analysis
