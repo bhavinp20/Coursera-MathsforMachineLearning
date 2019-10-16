@@ -135,10 +135,3 @@ ax.plot(bear_face[0], bear_face[1], color=bear_white, zorder=3)
 ax.fill(reflected_bear_white_fur[0], reflected_bear_white_fur[1], color=bear_white, zorder=1)
 ax.fill(reflected_bear_black_fur[0], reflected_bear_black_fur[1], color=bear_black, zorder=2)
 ax.plot(reflected_bear_face[0], reflected_bear_face[1], color=bear_white, zorder=3);
-
-
-# In[ ]:
-
-
-
-
