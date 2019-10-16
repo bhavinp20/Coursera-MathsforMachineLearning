@@ -214,10 +214,3 @@ gsBasis(C)
 
 
 dimensions(C)
-
-
-# In[ ]:
-
-
-
-
